@@ -1,0 +1,8 @@
+[package]
+name = "treinosmart-protocol"
+version = "0.3.0"
+edition = "2021"
+
+[lib]
+name = "treinosmart_protocol"
+path = "src/lib.rs"

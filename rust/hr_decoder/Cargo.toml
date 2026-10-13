@@ -1,0 +1,8 @@
+[package]
+name = "treinosmart-decoders"
+version = "0.1.0"
+edition = "2021"
+description = "Decodificadores testaveis de amostras BLE GTS 3 / Moyoung V2"
+license = "MIT"
+
+[dependencies]
